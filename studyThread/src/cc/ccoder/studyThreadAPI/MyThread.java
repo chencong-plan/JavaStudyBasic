@@ -9,6 +9,6 @@ package cc.ccoder.studyThreadAPI;
  */
 public class MyThread {
     public static void main(String[] args) {
-        System.out.println("nihao");
+        System.out.println("Hello Word");
     }
 }
