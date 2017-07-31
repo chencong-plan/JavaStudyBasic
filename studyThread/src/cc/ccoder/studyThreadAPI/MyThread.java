@@ -8,4 +8,7 @@ package cc.ccoder.studyThreadAPI;
  * 描述：  我的第一个线程类
  */
 public class MyThread {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
